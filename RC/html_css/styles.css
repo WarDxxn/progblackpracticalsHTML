@@ -1,7 +1,15 @@
 p{
     color: red;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 h1{
     background: lightblue;
+    font-family: Arial, Helvetica, sans-serif
+}
+
+ul.heavy{
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
 }
